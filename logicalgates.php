@@ -1,6 +1,6 @@
 <?php 
 class LogicalGates {
-  public and_gate($a, $b) {
+	public and_gate($a, $b) {
 		if ($a and $b) {
 			return true;
 		} else {
