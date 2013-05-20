@@ -1,4 +1,6 @@
 <?php 
+// Truth is inferred:
+// if ($a and $b) is the same as if ($a == true and $b == true)
 class LogicalGates {
 	public and_gate($a, $b) {
 		if ($a and $b) {
