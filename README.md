@@ -1,6 +1,8 @@
-Logical-gates-with-PHP
+Logical gates with PHP
 ======================
 
 A class of logical gates with PHP
 
-Just for fun. Untested.
+Just for fun. 
+
+Untested...
