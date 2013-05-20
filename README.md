@@ -5,4 +5,4 @@ A class of logical gates with PHP
 
 Just for fun. 
 
-Untested...
+Untested... Will it run?
